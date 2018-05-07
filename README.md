@@ -7,14 +7,16 @@ Modified 20180323 by Angelee Schmidt.
 
 Created for Python 2.7.
 
-
 2 reference files must be named:
+	
 	USERS.txt  = list of users that work on tickets 
+	
 	EVALUATORS.txt = list of people that will perform ticket evaluations
 
 
 Input file must be a CSV Report.
 Required headers:
+	
 	number
 	resolved_at
 	assigned_to
