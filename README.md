@@ -2,6 +2,7 @@
 Program takes in a CSV listing of team-assigned tickets. It selects a random sample of the tickets, proportionate to how many tickets each user completed. It then assigns those tickets back to the team members for review, ensuring no user is assigned their own ticket.
 
 README Created 20170927 Angelee Schmidt.
+
 Modified 20180323 by Angelee Schmidt.
 
 Created for Python 2.7.
