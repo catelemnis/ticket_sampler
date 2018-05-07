@@ -28,6 +28,5 @@ Optional second argument is the percent size that the sample will be (in whole n
 Ex.
 	
 	\>python evaluation_sampler_v2.0.py SN_REPORT.csv
-	\>python evaluation_sampler_v2.0.py SN_REPORT.csv 20 
-	#this will grab 20% sample of tickets from SN_REPORT.csv
+	\>python evaluation_sampler_v2.0.py SN_REPORT.csv 20 #this will grab 20% sample of tickets from SN_REPORT.csv
 	\>py -2 evaluation_sampler.py SN_REPORT.csv
