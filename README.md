@@ -10,7 +10,6 @@ Created for Python 2.7.
 2 reference files must be named:
 	
 	USERS.txt  = list of users that work on tickets 
-	
 	EVALUATORS.txt = list of people that will perform ticket evaluations
 
 
